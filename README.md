@@ -5,7 +5,7 @@
 - 👩‍🎓Formada em Analise e Desenvolvimento de Sistemas
 - 📫 (Contate-me no email: Anairineu50@gmail.com)
 
-<a href="https://github.com/AnaIrineun">
+<a href="https://github.com/AnaIrineun/FilaVacina.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=FilaVacina&theme=buefy" />
 </a>
 <a href="https://github.com/AnaIrineun">
