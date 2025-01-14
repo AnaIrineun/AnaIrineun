@@ -5,6 +5,7 @@
 - 👩‍🎓Formada em Analise e Desenvolvimento de Sistemas
 - 📫 (Contate-me no email: Anairineu50@gmail.com)
 <div>
-  <a href="//github.com/AnaIrineun">
-    <img height="100em" src="https:github-readme-stats.vercel.app/api?username=AnaIrineun%show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://beacons.ai/AnaIrineun">
+    <img height="180em" src="https//:github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+     <img height="180em" src="https//:github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dracula"/>
 </div>
