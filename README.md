@@ -11,6 +11,6 @@
 <a href="https://github.com/AnaIrineun/FilaVacina">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=FilaVacina&theme=buefy" />
 </a>
-<a href="https://github.com/AnaIrineun">
+<a href="https://github.com/AnaIrineun/MusicVerse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=MusicVerse&theme=buefy" />
 </a>
