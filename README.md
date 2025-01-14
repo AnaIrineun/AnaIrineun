@@ -6,9 +6,8 @@
 - 📫 (Contate-me no email: Anairineu50@gmail.com)
 
 <a href="https://github.com/AnaIrineun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=FilaVacina&theme=buefy" />
 </a>
 <a href="https://github.com/AnaIrineun">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=AnaIrineun.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=MusicVerse&theme=buefy" />
 </a>
-  
