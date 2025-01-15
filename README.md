@@ -5,7 +5,7 @@
 - 👩‍🎓Formada em Analise e Desenvolvimento de Sistemas
 - 🖥️ Conhecimento em HTML, CSS e Java.
 - 🌐 Entusiasta em redes de computadores.  
-- 📫 (Contate-me no email: Anairineu50@gmail.com)
+- 📫 (Contate-me no email: Anairineu50@gmail.com ou Linkedin: Ana Julia Irineu Nascimento )
   
 
 <a href="https://github.com/AnaIrineun/FilaVacina">
