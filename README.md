@@ -14,3 +14,7 @@
 <a href="https://github.com/AnaIrineun/MusicVerse">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=MusicVerse&theme=buefy" />
 </a>
+
+<a href="https://github.com/AnaIrineun/Spotify-2.0-Imersao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnaIrineun&repo=Spotify-2.0-Imersao&theme=buefy" />
+</a>
